@@ -10,13 +10,13 @@
 ### Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![launch](Theater_Outcomes_vs_Launch.PNG)
+![launch](Resources/Theater_Outcomes_vs_Launch.PNG)
 
 #### As seen in the above graph, the best months to launch a successful theater Kickstarter are May and June. There is a large spike in successful projects around these months with a success rate of around 65-67%. The amount of failed and cancelled projects remained relatively stable across all months. 
 
 
 ### Analysis of Outcomes Based on Goals
-![outcomes](Outcomes_vs_Goals.PNG)
+![outcomes](Resources/Outcomes_vs_Goals.PNG)
 #### The theater data was also sorted into the subcategory of plays. From this subcategory we were able to find the success / failed / canceled rates for different ranges of Kickstarter goals. The goals and percent success rate seem to be negatively correlated with the success rate decreasing at higher goal values. The outlier to the negative correlation is the $35,000-44,999 range however there is not a large sample size when compared to the smaller goal amounts.     
 
 
