@@ -21,7 +21,7 @@
 
 
 ### Challenges and Difficulties Encountered
-#### The main challenge I had was COUNTIF instead of COUNTIFS while setting up the Outcomes Based on Goals sheet in Excel which caused an error. I had all the correct syntax and kept getting an error about too many arguments. Once I changed COUNTIF to COUNTIFS, I had no issues.
+#### The main challenge I had was using COUNTIF instead of COUNTIFS while setting up the Outcomes Based on Goals which caused an error. I had all the correct syntax and kept getting an error about too many arguments. Once I researched the error and changed COUNTIF to COUNTIFS, I had no issues.
 
 ## Results
 
