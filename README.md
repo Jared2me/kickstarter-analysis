@@ -8,3 +8,4 @@
 #### The purpose of this analysis was to determine the optimal time period to start a successful Kickstarter campaign. In addition, there was an breakdown of how well Kickstarter campaigns performed at different funding ranges.    
 
 ### Analysis and Challenges
+![outcomes](Outcomes_vs_Goals.png)
