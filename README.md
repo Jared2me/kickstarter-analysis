@@ -9,3 +9,4 @@
 
 ### Analysis and Challenges
 ![outcomes](Outcomes_vs_Goals.PNG)
+![launch](Theater_Outcomes_vs_Launch.PNG)
